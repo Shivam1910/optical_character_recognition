@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.result {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.error {
+  color: red;
+}
